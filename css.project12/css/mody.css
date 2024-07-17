@@ -1,0 +1,12 @@
+div{
+background-color: red;
+margin: 10px;
+/* display:none; */
+visibility: visible;
+}
+.frist {
+  display: none;
+}
+
+
+

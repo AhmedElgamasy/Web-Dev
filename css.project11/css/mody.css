@@ -1,0 +1,37 @@
+/*
+Block 
+
+  Take Full Width If No Width 
+  Add kine Break 
+  Respect padding Margin widht Height 
+
+ Inline
+
+
+  Do Not Respect
+  Do Not Add Line Break 
+
+
+
+ INlineBlock
+
+
+ 
+
+
+
+ 
+*/
+div { 
+background-color: #eee;
+padding: 7,5px;
+margin: 10px;
+}
+ 
+ span {
+background-color: #eee;
+padding: 10px;;  
+ /* margin: 10px;  
+width: 300px;
+hight 15px;*/
+ }

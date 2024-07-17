@@ -1,0 +1,22 @@
+/* 
+The Box Model
+Box sizzing
+*/
+
+.parent {
+    width: 600px;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ddd;
+  }
+
+.one {
+ background-color: #eee;  
+width: 200px;
+height: 100px;
+}
+.one:hover {
+margin-left: 20px;
+
+}

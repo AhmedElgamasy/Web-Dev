@@ -1,0 +1,14 @@
+div{
+ background-color:#DDD;
+   /* top right bottom left */
+   padding: 10px;
+   width: 70%;
+   margin: auto;
+   border-width: 10px;
+   border-color: red ;
+   border-style: solid;
+   outline: 10px solid blue;
+}
+
+
+

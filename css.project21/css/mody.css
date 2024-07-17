@@ -1,0 +1,41 @@
+/* 
+  Text spacing 
+    letter spacing 
+    Indentation
+    Word spacing + Wraping + White Space
+*/
+     div {
+      background-color: #ddd;
+      padding: 10px;
+      width: 200px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+     }     
+              
+              
+              
+              
+            
+            
+            
+             
+          
+          
+          
+        
+        
+        
+      
+      
+      
+      
+    
+    
+    
+     
+  
+  
+  
+
+

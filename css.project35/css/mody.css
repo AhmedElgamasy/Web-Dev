@@ -1,0 +1,8 @@
+ table {
+ display: table;
+ border-collapse: separate;
+ box-sizing: initial;
+ text-indent: initial;
+ border-spacing: 2px;
+ border-color: grey;
+ }

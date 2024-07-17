@@ -1,0 +1,8 @@
+div {
+background-color: gold; /* color Name */
+background-color: rgb(255 255  ); /* red, yellow */
+background-color: #ff0000; /* color hex code */
+background-repeat: repeat;
+background-color: gold; /* color Name */
+background-repeat: repeat; }
+/* background-attachment: fixed */ 

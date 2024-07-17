@@ -1,0 +1,7 @@
+.parent-div {
+  padding-top: 10px;
+  padding-bottom: 10px ;
+  text-align: center;
+  background-color: #eee;
+  display: inline-block;
+}
