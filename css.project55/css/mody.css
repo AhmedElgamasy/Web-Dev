@@ -1,0 +1,10 @@
+/* 
+Gradients
+linear-gradient(Direction  Angle, color stop 1, color stop2, ....)
+*/
+
+div {
+    background-image: linear-gradient(to right red, green);
+width: 300px;
+height: 300px;
+}
