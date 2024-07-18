@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mody</title>
+    <link rel="stylesheet" type="text/css" href="css/mody.css">
+    <style>
+        /* You can put inline styles here if needed */
+        .flex {
+            display: flex;
+        }
+        .flex div {
+            border: 1px solid black; /* Example border for clarity */
+        }
+        .flex div:nth-child(2) {
+            /* Corrected inline style */
+            flex-basis: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex">
+        <div>1</div>
+        <div style="flex-basis: 300px;">2</div>
+    </div>
+</body>
+</html>

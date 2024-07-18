@@ -1,14 +1,9 @@
-.float {
-overflow: hidden;
-background-color: #eee;
-width: 600px;
-padding: 20px;
-}
-
-/* hello mody  */
-.float {
-    overflow: hidden;
-    background-color: #eee;
-    width: 600px;
+div {
+    background-color: red;
+    color: white;
+    width: 90px;
+    text-align: center;
     padding: 20px;
-    }
+    margin-right: 3px;
+
+}
