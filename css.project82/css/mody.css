@@ -1,6 +1,11 @@
 
 
-{
+:checked{
+background-color: red;
 
-    
+}
+body {
+   margin: 0;
+   padding: 20px;
+   height: 10px;
 }
