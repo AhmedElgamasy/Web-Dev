@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;   
+    }
+
+  td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;  
+  }
+
+  
+tr:nth-child(even) { 
+   background-color: #dddddd;
+
+  }
+</style>
+</head>
+<body>
+    
+<h2>A pizza business</h2>
+<img src="/home/salah/Desktop/css2/cat.jpg">
+<table>
+  <tr>
+    <th>name</th>
+    <th>preparing</th>
+    <th>price</th>
+  </tr>
+  <tr>
+    <td>pizza chease </td>
+    <td>done</td>
+    <td>1$</td>
+</tr>
+<tr>
+    <td>pizza meat</td>
+    <td>well done </td>
+    <td>6$</td>
+</tr>
+<tr>
+    <td>normal pizza</td>
+    <td>done</td>
+    <td>0.2$</td>
+    
+ 
+
