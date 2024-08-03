@@ -10,7 +10,9 @@
     color: black;
 }
 
-
+.box .front {
+    background-color: black;
+}
 
 .box .back {
     background-color: green;
