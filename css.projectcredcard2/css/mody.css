@@ -1,7 +1,0 @@
-div {
-    background-color: gold; /* color Name */
-    background-color: rgb(255 255  ); /* red, yellow */
-    background-color: #ff0000; /* color hex code */
-    background-image: url("../imgs/cat.jpg");
-    background-repeat: no-repeat;
-}
